@@ -4,7 +4,7 @@
 
 ShopSite is a modern e-commerce platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless shopping experience for customers while equipping sellers with the necessary tools to manage their products and sales efficiently.
 
-![ShopSite Dashboard](https://example.com/path/to/shopsite-dashboard-image.png)
+![ShopSite Dashboard](./frontend/images/Dashboard.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ ShopSite is a modern e-commerce platform built using the MERN (MongoDB, Express.
 - **Seller Dashboard:** 
   - Sellers have access to a dashboard where they can add, update, and delete products. They can view sales data and customer interactions for better store management.
 
-![Admin Panel](https://example.com/path/to/admin-panel-image.png)
+![Admin Panel](./frontend/images/Admin.png)
 
 - **Order Management:** 
   - Sellers can track and update the status of orders, ensuring smooth and timely delivery.
@@ -31,7 +31,7 @@ ShopSite is a modern e-commerce platform built using the MERN (MongoDB, Express.
 - **Secure Payment Integration:** 
   - Integrated with Razorpay for secure payment processing.
 
-![Payment Section](https://example.com/path/to/payment-section-image.png)
+![Payment Section](./frontend/images/payment.png)
 
 ## Technologies Used
 
