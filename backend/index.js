@@ -4,8 +4,8 @@ const mongoose = require("mongoose");
 const Stripe = require("stripe");
 const dotenv = require("dotenv");
 const Routes = require("./routes/route.js");
-
-dotenv.config(); // Load environment variables
+   
+dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
