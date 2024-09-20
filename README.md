@@ -81,6 +81,8 @@ Inside it write this :
 MONGO_URL = mongodb://127.0.0.1/ecommerce
 
 SECRET_KEY = 'secret-key'
+
+STRIPE_SECRET_KEY=your-secret-key-from-stripe
 ```
 Instead of this link write your database link.
 
