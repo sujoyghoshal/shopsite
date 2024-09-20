@@ -109,7 +109,8 @@ These steps should resolve the network error in the frontend. If the issue persi
 
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
-# Deployment
-* Render - server side
-* Vercel - client side
+## Deployment
+- **Frontend:** Hosted on Vercel [https://shopsite-frontend.vercel.app/](https://shopsite-frontend.vercel.app/)
+- **Backend:** Hosted on Render [https://shopsite-server.onrender.com/](https://shopsite-server.onrender.com/)
+
 
