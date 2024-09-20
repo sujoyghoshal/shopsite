@@ -13,7 +13,7 @@ import { underControl } from '../../../redux/userSlice';
 import AlertDialogSlide from '../../../components/AlertDialogSlide';
 
 const ViewProductSeller = () => {
-  const dispatch = useDispatch();
+  const dispatch = useDispatch(); 
   const params = useParams();
   const productID = params.id;
 
